@@ -13,9 +13,13 @@
 
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkan-del&show_icons=true&locale=en&layout=compact" alt="furkan-del" />
-  
-  
+ </p> 
+  <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-del&" alt="furkan-del" />
-<a href=""><img src="https://github-readme-stats.vercel.app/api?username=furkan-del&show_icons=true"/></a
-
+    
+  </p>
+<p>
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=furkan-del&show_icons=true"/></a  
 </p>
+
+
