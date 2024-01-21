@@ -2,7 +2,6 @@
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 👋 Hello, I'm Furkan Yaman! I'm a enthusiastic software engineering student. I enjoy working with Java, Kotlin, and Python. I am dedicated to continuous learning and self-improvement. You can reach out to me through LinkedIn. 🚀
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/furkanyamann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkanyamann/" height="30" width="40" /></a>
