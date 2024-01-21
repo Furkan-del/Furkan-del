@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Kotlin**
-
-- 📫 How to reach me **furkanyaman319@gmail.com**
+- 👋 Hello, I'm Furkan Yaman! I'm a passionate software engineering student. I enjoy working with Java, Kotlin, and Python. I am dedicated to continuous learning and self-improvement. You can reach out to me through LinkedIn. 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
